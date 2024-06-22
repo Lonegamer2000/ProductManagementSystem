@@ -1,0 +1,17 @@
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Infrastructure\bin\Debug\net8.0\UJJWALPMS.Infrastructure.deps.json
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Infrastructure\bin\Debug\net8.0\UJJWALPMS.Infrastructure.runtimeconfig.json
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Infrastructure\bin\Debug\net8.0\UJJWALPMS.Infrastructure.dll
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Infrastructure\bin\Debug\net8.0\UJJWALPMS.Infrastructure.pdb
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Infrastructure\bin\Debug\net8.0\UJJWALPMS.Models.dll
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Infrastructure\bin\Debug\net8.0\UJJWALPMS.Models.pdb
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Infrastructure\obj\Debug\net8.0\UJJWALPMS.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Infrastructure\obj\Debug\net8.0\UJJWALPMS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Infrastructure\obj\Debug\net8.0\UJJWALPMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Infrastructure\obj\Debug\net8.0\UJJWALPMS.Infrastructure.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Infrastructure\obj\Debug\net8.0\UJJWALPMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Infrastructure\obj\Debug\net8.0\UJJWALPM.4E21E9F2.Up2Date
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Infrastructure\obj\Debug\net8.0\UJJWALPMS.Infrastructure.dll
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Infrastructure\obj\Debug\net8.0\refint\UJJWALPMS.Infrastructure.dll
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Infrastructure\obj\Debug\net8.0\UJJWALPMS.Infrastructure.pdb
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Infrastructure\obj\Debug\net8.0\UJJWALPMS.Infrastructure.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Infrastructure\obj\Debug\net8.0\ref\UJJWALPMS.Infrastructure.dll

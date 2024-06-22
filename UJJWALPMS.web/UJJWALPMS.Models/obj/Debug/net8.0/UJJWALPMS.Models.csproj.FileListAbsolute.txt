@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Models\bin\Debug\net8.0\UJJWALPMS.Models.deps.json
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Models\bin\Debug\net8.0\UJJWALPMS.Models.dll
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Models\bin\Debug\net8.0\UJJWALPMS.Models.pdb
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Models\obj\Debug\net8.0\UJJWALPMS.Models.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Models\obj\Debug\net8.0\UJJWALPMS.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Models\obj\Debug\net8.0\UJJWALPMS.Models.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Models\obj\Debug\net8.0\UJJWALPMS.Models.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Models\obj\Debug\net8.0\UJJWALPMS.Models.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Models\obj\Debug\net8.0\UJJWALPMS.Models.dll
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Models\obj\Debug\net8.0\refint\UJJWALPMS.Models.dll
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Models\obj\Debug\net8.0\UJJWALPMS.Models.pdb
+C:\Users\ASUS\Desktop\netcentric computing\UJJWALPMS.web\UJJWALPMS.Models\obj\Debug\net8.0\ref\UJJWALPMS.Models.dll

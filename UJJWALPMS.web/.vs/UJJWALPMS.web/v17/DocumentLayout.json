@@ -1,0 +1,486 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|solutionrelative:ujjwalpms.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12F12BA-B6ED-46B1-898D-F1EF4507FB59}|UJJWALPMS.Infrastructure\\UJJWALPMS.Infrastructure.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.infrastructure\\entity_configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12F12BA-B6ED-46B1-898D-F1EF4507FB59}|UJJWALPMS.Infrastructure\\UJJWALPMS.Infrastructure.csproj|solutionrelative:ujjwalpms.infrastructure\\entity_configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.web\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|solutionrelative:ujjwalpms.web\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697B2702-0C5B-472B-9D2D-632A19A8F0F6}|UJJWALPMS.Models\\UJJWALPMS.Models.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.models\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697B2702-0C5B-472B-9D2D-632A19A8F0F6}|UJJWALPMS.Models\\UJJWALPMS.Models.csproj|solutionrelative:ujjwalpms.models\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697B2702-0C5B-472B-9D2D-632A19A8F0F6}|UJJWALPMS.Models\\UJJWALPMS.Models.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.models\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697B2702-0C5B-472B-9D2D-632A19A8F0F6}|UJJWALPMS.Models\\UJJWALPMS.Models.csproj|solutionrelative:ujjwalpms.models\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|solutionrelative:ujjwalpms.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|solutionrelative:ujjwalpms.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|solutionrelative:ujjwalpms.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|solutionrelative:ujjwalpms.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.web\\data\\seedingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|solutionrelative:ujjwalpms.web\\data\\seedingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.web\\views\\category\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|solutionrelative:ujjwalpms.web\\views\\category\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|solutionrelative:ujjwalpms.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697B2702-0C5B-472B-9D2D-632A19A8F0F6}|UJJWALPMS.Models\\UJJWALPMS.Models.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.models\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697B2702-0C5B-472B-9D2D-632A19A8F0F6}|UJJWALPMS.Models\\UJJWALPMS.Models.csproj|solutionrelative:ujjwalpms.models\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697B2702-0C5B-472B-9D2D-632A19A8F0F6}|UJJWALPMS.Models\\UJJWALPMS.Models.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.models\\viewmodels\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697B2702-0C5B-472B-9D2D-632A19A8F0F6}|UJJWALPMS.Models\\UJJWALPMS.Models.csproj|solutionrelative:ujjwalpms.models\\viewmodels\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.web\\views\\product\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|solutionrelative:ujjwalpms.web\\views\\product\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|solutionrelative:ujjwalpms.web\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|solutionrelative:ujjwalpms.web\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.web\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|solutionrelative:ujjwalpms.web\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|solutionrelative:ujjwalpms.web\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12F12BA-B6ED-46B1-898D-F1EF4507FB59}|UJJWALPMS.Infrastructure\\UJJWALPMS.Infrastructure.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.infrastructure\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12F12BA-B6ED-46B1-898D-F1EF4507FB59}|UJJWALPMS.Infrastructure\\UJJWALPMS.Infrastructure.csproj|solutionrelative:ujjwalpms.infrastructure\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Migrations\\PMSDb\\20240622064801_TableAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UJJWALPMS.web\\Migrations\\PMSDb\\20240622064801_TableAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697B2702-0C5B-472B-9D2D-632A19A8F0F6}|UJJWALPMS.Models\\UJJWALPMS.Models.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697B2702-0C5B-472B-9D2D-632A19A8F0F6}|UJJWALPMS.Models\\UJJWALPMS.Models.csproj|solutionrelative:ujjwalpms.models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12F12BA-B6ED-46B1-898D-F1EF4507FB59}|UJJWALPMS.Infrastructure\\UJJWALPMS.Infrastructure.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.infrastructure\\irepository\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12F12BA-B6ED-46B1-898D-F1EF4507FB59}|UJJWALPMS.Infrastructure\\UJJWALPMS.Infrastructure.csproj|solutionrelative:ujjwalpms.infrastructure\\irepository\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CBE8FE5D-5A3D-45EC-9B43-4646DBE66513}|UJJWALPMS.web\\UJJWALPMS.web.csproj|solutionrelative:ujjwalpms.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12F12BA-B6ED-46B1-898D-F1EF4507FB59}|UJJWALPMS.Infrastructure\\UJJWALPMS.Infrastructure.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.infrastructure\\ujjwalpms.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A12F12BA-B6ED-46B1-898D-F1EF4507FB59}|UJJWALPMS.Infrastructure\\UJJWALPMS.Infrastructure.csproj|solutionrelative:ujjwalpms.infrastructure\\ujjwalpms.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12F12BA-B6ED-46B1-898D-F1EF4507FB59}|UJJWALPMS.Infrastructure\\UJJWALPMS.Infrastructure.csproj|c:\\users\\asus\\desktop\\netcentric computing\\ujjwalpms.web\\ujjwalpms.infrastructure\\entity_configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12F12BA-B6ED-46B1-898D-F1EF4507FB59}|UJJWALPMS.Infrastructure\\UJJWALPMS.Infrastructure.csproj|solutionrelative:ujjwalpms.infrastructure\\entity_configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 30,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "UJJWALPMS.web\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "UJJWALPMS.web\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:08:00.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeedingData.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Data\\SeedingData.cs",
+              "RelativeDocumentMoniker": "UJJWALPMS.web\\Data\\SeedingData.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Data\\SeedingData.cs",
+              "RelativeToolTip": "UJJWALPMS.web\\Data\\SeedingData.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwCQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T09:00:54.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UJJWALPMS.web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UJJWALPMS.web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T08:55:12.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "UJJWALPMS.web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "UJJWALPMS.web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAKcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:46:55.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "UJJWALPMS.web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "UJJWALPMS.web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T07:42:20.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SearchViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Models\\ViewModels\\SearchViewModel.cs",
+              "RelativeDocumentMoniker": "UJJWALPMS.Models\\ViewModels\\SearchViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Models\\ViewModels\\SearchViewModel.cs",
+              "RelativeToolTip": "UJJWALPMS.Models\\ViewModels\\SearchViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:24:53.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Models\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "UJJWALPMS.Models\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Models\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "UJJWALPMS.Models\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:23:55.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UJJWALPMS.web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UJJWALPMS.web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:19:52.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Views\\Product\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "UJJWALPMS.web\\Views\\Product\\AddEdit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Views\\Product\\AddEdit.cshtml",
+              "RelativeToolTip": "UJJWALPMS.web\\Views\\Product\\AddEdit.cshtml",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAAKEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T07:09:07.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "UJJWALPMS.web\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "UJJWALPMS.web\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAE8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T07:01:57.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "UJJWALPMS.web\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "UJJWALPMS.web\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAQwCoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:00:50.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Views\\Category\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "UJJWALPMS.web\\Views\\Category\\AddEdit.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Views\\Category\\AddEdit.cshtml",
+              "RelativeToolTip": "UJJWALPMS.web\\Views\\Category\\AddEdit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T06:57:05.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Infrastructure\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "UJJWALPMS.Infrastructure\\Services\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Infrastructure\\Services\\EmailSender.cs",
+              "RelativeToolTip": "UJJWALPMS.Infrastructure\\Services\\EmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T06:53:04.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "UJJWALPMS.web\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "UJJWALPMS.web\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T06:51:02.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "UJJWALPMS.web\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "UJJWALPMS.web\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwBoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T06:49:55.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240622064801_TableAdded.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Migrations\\PMSDb\\20240622064801_TableAdded.cs",
+              "RelativeDocumentMoniker": "UJJWALPMS.web\\Migrations\\PMSDb\\20240622064801_TableAdded.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Migrations\\PMSDb\\20240622064801_TableAdded.cs",
+              "RelativeToolTip": "UJJWALPMS.web\\Migrations\\PMSDb\\20240622064801_TableAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T06:48:01.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICrudService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Infrastructure\\IRepository\\ICrudService.cs",
+              "RelativeDocumentMoniker": "UJJWALPMS.Infrastructure\\IRepository\\ICrudService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Infrastructure\\IRepository\\ICrudService.cs",
+              "RelativeToolTip": "UJJWALPMS.Infrastructure\\IRepository\\ICrudService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T05:37:38.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Infrastructure\\Entity_Configuration\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "UJJWALPMS.Infrastructure\\Entity_Configuration\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Infrastructure\\Entity_Configuration\\ProductConfiguration.cs",
+              "RelativeToolTip": "UJJWALPMS.Infrastructure\\Entity_Configuration\\ProductConfiguration.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwCcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T05:34:21.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "UJJWALPMS.web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "UJJWALPMS.web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T05:24:27.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UJJWALPMS.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Infrastructure\\UJJWALPMS.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "UJJWALPMS.Infrastructure\\UJJWALPMS.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Infrastructure\\UJJWALPMS.Infrastructure.csproj",
+              "RelativeToolTip": "UJJWALPMS.Infrastructure\\UJJWALPMS.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-22T05:10:46.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Infrastructure\\Entity_Configuration\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "UJJWALPMS.Infrastructure\\Entity_Configuration\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Infrastructure\\Entity_Configuration\\CategoryConfiguration.cs",
+              "RelativeToolTip": "UJJWALPMS.Infrastructure\\Entity_Configuration\\CategoryConfiguration.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAABAwAEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T05:00:14.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "UJJWALPMS.Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Models\\BaseEntity.cs",
+              "RelativeToolTip": "UJJWALPMS.Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:58:03.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Models\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "UJJWALPMS.Models\\Entity\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Models\\Entity\\Product.cs",
+              "RelativeToolTip": "UJJWALPMS.Models\\Entity\\Product.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA0wB4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:56:58.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Models\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "UJJWALPMS.Models\\Entity\\Category.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.Models\\Entity\\Category.cs",
+              "RelativeToolTip": "UJJWALPMS.Models\\Entity\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T18:56:46.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UJJWALPMS.web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UJJWALPMS.web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T17:23:41.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Program.cs",
+              "RelativeDocumentMoniker": "UJJWALPMS.web\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\netcentric computing\\UJJWALPMS.web\\UJJWALPMS.web\\Program.cs",
+              "RelativeToolTip": "UJJWALPMS.web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABhwAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T17:06:04.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
